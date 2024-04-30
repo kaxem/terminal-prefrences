@@ -8,4 +8,4 @@
 
 `cp .zshrc ~/.zshrc`
 
-After all install these colors for iTerm [](https://github.com/MartinSeeler/iterm2-material-design)
+After all install these colors for iTerm [Colors](https://github.com/MartinSeeler/iterm2-material-design)
